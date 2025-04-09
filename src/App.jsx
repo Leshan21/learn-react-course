@@ -4,11 +4,12 @@ import Card from './Card.jsx'
 import Button from './Button/Button.jsx' 
 import Student from './Student/Student.jsx'
 import List from './List.jsx'
+import MyComponent from './MyComponent.jsx'
 
 function App() {
   return(
     <>
-      <Button/>
+      <MyComponent/>
     </>
      
   );
